@@ -27,3 +27,6 @@ This project presents an automated ball-track test bench developed for reproduci
 - Sensor integration and automated angle control
 - Mechanical design and prototyping
 - Statistical analysis of measurement data
+
+## Project Files
+- [Arduino control code](code/arduino-control.ino)
