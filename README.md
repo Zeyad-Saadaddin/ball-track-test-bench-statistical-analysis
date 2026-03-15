@@ -1,5 +1,8 @@
 # Automated Ball-Track Test Bench for Statistical Analysis
 ![Ball-Track Test Bench](docs/README-assets/ball-track-test-bench-overview.jpeg)
+
+*Overview of the automated ball-track test bench prototype.*
+
 Mechatronic engineering project focused on the automated acquisition and statistical evaluation of time, speed, and force data.
 
 ## Project Overview
